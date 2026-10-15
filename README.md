@@ -4,7 +4,7 @@ A **real-time Chat Room Application** built using the **MERN Stack** — MongoDB
 This project enables users to communicate in real time with a responsive UI and a scalable backend architecture.
 
 🔗 **GitHub Repository:**
-[https://github.com/VaibhavSain/Chat-Room-Mern](https://github.com/VaibhavSain/Chat-Room-Mern)
+[https://github.com/sakshamjaswalll11/Chat-Room-Application](https://github.com/sakshamjaswalll11/Chat-Room-Application)
 
 ---
 
@@ -130,7 +130,7 @@ Feel free to fork the repo, create a new branch, and submit a pull request.
 ## 📬 Contact
 
 **Vaibhav Sain**
-🔗 GitHub: [https://github.com/VaibhavSain](https://github.com/VaibhavSain)
+🔗 GitHub: [https://github.com/sakshamjaswalll11](https://github.com/sakshamjaswalll11)
 💼 LinkedIn: *(add your LinkedIn profile link here)*
 
 ---
