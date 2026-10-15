@@ -129,7 +129,7 @@ Feel free to fork the repo, create a new branch, and submit a pull request.
 
 ## 📬 Contact
 
-**Vaibhav Sain**
+**Saksham Jaswal**
 🔗 GitHub: [https://github.com/sakshamjaswalll11](https://github.com/sakshamjaswalll11)
 💼 LinkedIn: *(add your LinkedIn profile link here)*
 
